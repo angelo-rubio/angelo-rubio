@@ -25,4 +25,4 @@ This is **Angelo Rubio**  (aka "An_thunder")
 --- 
 
 ### My portfolio so far:
-🗃️**[Online Portfolio](https://www.mygreatlearning.com/eportfolio/angelo-rubio)**
+🗃️ **[Online Portfolio](https://www.mygreatlearning.com/eportfolio/angelo-rubio)**  
