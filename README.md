@@ -1,16 +1,23 @@
-## Hi there 👋
+## Howdy 👋
+This is **Angelo Rubio**  (aka "An_thunder")  
+👨🏻‍💻 **Data scientist**  
+💊 **Pharmacist**
 
-<!--
-**angelo-rubio/angelo-rubio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Building my data science portfolio**
+- 🌱 I’m currently learning **Hadoop, Tableau and Azure**
+- 👯 I’m looking to collaborate on **Open-source data-science projects or Kaggle teams**
+- 💬 Ask me about **Data analysis, visualization, predictive models, business statistics, or pharmacology**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---  
+
+### 🚀 Skills & Tools
+**Programming**: Python, Java and learning SQL  
+**Data Tools**: Pandas, NumPy, scikit-learn.
+
+---  
+
+### 📫 How to reach me:
+**[GitHub](https://github.com/angelo-rubio)**   
+**[Email](mailto:angelo-rubio@script.mozmail.com)**  
+**[LinkedIn](https://www.linkedin.com/in/angelo-rubio)**  
