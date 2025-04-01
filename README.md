@@ -5,7 +5,7 @@ This is **Angelo Rubio**  (aka "An_thunder")
 
 - 🔭 I’m currently working on **Building my data science portfolio**
 - 🌱 I’m currently learning **Hadoop, Tableau and Azure**
-- 👯 I’m looking to collaborate on **Open-source data-science projects or Kaggle teams**
+- 👾 I’m looking to collaborate on **Open-source data-science projects or Kaggle teams**
 - 💬 Ask me about **Data analysis, visualization, predictive models, business statistics, or pharmacology**
 
 
